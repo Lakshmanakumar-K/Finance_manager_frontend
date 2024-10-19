@@ -1,0 +1,9 @@
+.navigation {
+    min-height: 5vh;
+    background-color: darkgray;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

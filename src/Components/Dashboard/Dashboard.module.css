@@ -1,0 +1,16 @@
+.dashboard_card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.chart_graph {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px;
+}
